@@ -1,0 +1,10 @@
+.app {
+  width: 100vw;
+  min-height: 100vh;
+  background: center / cover url(../../images/Pattern.png);
+  font-family: 'Trebuchet MS';
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
